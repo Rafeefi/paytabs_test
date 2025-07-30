@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191769047655",
+    "project_id": "paytabs-d905a",
+    "storage_bucket": "paytabs-d905a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191769047655:android:2ce2303754cb2d1c159ac2",
+        "android_client_info": {
+          "package_name": "com.example.paytabs_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTlARtwcueA6gnreNXp7FAjUfgnaZ_68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
